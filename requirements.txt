@@ -1,4 +1,4 @@
 pymongo
 streamlit
 azure-identity
-azurekeyvault-secrets
+azure-keyvault-secrets
